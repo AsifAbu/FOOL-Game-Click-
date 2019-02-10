@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2012\Projects\Click\Click\bin\Debug\Click.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Click\Click\bin\Debug\Click.exe
+c:\users\user\documents\visual studio 2012\Projects\Click\Click\bin\Debug\Click.pdb
+c:\users\user\documents\visual studio 2012\Projects\Click\Click\obj\Debug\Click.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Click\Click\obj\Debug\Click.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Click\Click\obj\Debug\Click.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Click\Click\obj\Debug\Click.exe
+c:\users\user\documents\visual studio 2012\Projects\Click\Click\obj\Debug\Click.pdb
+c:\users\user\documents\visual studio 2012\Projects\Click\Click\obj\Debug\Click.Form1.resources
+E:\SEMISTER 6\Object Oriented Programming 2 ( C# )\Projects (Mazid)\Click\Click\bin\Debug\Click.exe.config
+E:\SEMISTER 6\Object Oriented Programming 2 ( C# )\Projects (Mazid)\Click\Click\obj\Debug\Click.exe
+E:\SEMISTER 6\Object Oriented Programming 2 ( C# )\Projects (Mazid)\Click\Click\obj\Debug\Click.pdb
+E:\SEMISTER 6\Object Oriented Programming 2 ( C# )\Projects (Mazid)\Click\Click\bin\Debug\Click.exe
+E:\SEMISTER 6\Object Oriented Programming 2 ( C# )\Projects (Mazid)\Click\Click\bin\Debug\Click.pdb
+E:\SEMISTER 6\Object Oriented Programming 2 ( C# )\Projects (Mazid)\Click\Click\obj\Debug\Click.csprojResolveAssemblyReference.cache
+E:\SEMISTER 6\Object Oriented Programming 2 ( C# )\Projects (Mazid)\Click\Click\obj\Debug\Click.Form1.resources
+E:\SEMISTER 6\Object Oriented Programming 2 ( C# )\Projects (Mazid)\Click\Click\obj\Debug\Click.Properties.Resources.resources
+E:\SEMISTER 6\Object Oriented Programming 2 ( C# )\Projects (Mazid)\Click\Click\obj\Debug\Click.csproj.GenerateResource.Cache
